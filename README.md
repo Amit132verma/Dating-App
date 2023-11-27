@@ -15,7 +15,6 @@
 <img width="324" alt="irydev chatspace tinder" src="https://user-images.githubusercontent.com/86270481/214656621-a258bafe-ee5c-4c7b-8294-3e83d16941dd.png">
 <p>
 
-Download the zip and open the **index.html** file (pages are linked by hyperlinks so you can easily navigate in the site)
 
 ## Register Page
 <img width="1365" src="https://user-images.githubusercontent.com/86270481/213945475-d449117e-4a3b-436e-9875-b8da5c645ea9.png" alt="tinder chatspace register page">
